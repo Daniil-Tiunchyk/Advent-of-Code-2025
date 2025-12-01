@@ -1,0 +1,9 @@
+# --- Build Artifacts ---
+/out
+/target
+/build
+*.class
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
