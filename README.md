@@ -5,7 +5,7 @@ This repository contains algorithmic solutions for a series of 12 sequential cod
 ## Puzzle Log
 
 - [x] **Day 01: Secret Entrance** — [Solution](src/com/northpole/puzzles/Day01SecretEntrance.java)
-- [ ] Day 02:
+- [x] **Day 02: Gift Shop** — [Solution](src/com/northpole/puzzles/Day02GiftShop.java)
 - [ ] Day 03:
 - [ ] Day 04:
 - [ ] Day 05:
